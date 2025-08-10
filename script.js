@@ -175,7 +175,6 @@ let events = JSON.parse(localStorage.getItem("events")) || [
       <p>Wij zijn een Anderlechtse NGO die zich inzet voor gemeenschapsopbouw en hulp aan mensen die het minder breed hebben.</p>
       <p>Adres: Fictiefstraat 123, 1070 Anderlecht</p>
       <p>Contact: info@ngoanderlecht.be | 02 123 45 67</p>
-      <p class="mt-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
     `;
   }
   
